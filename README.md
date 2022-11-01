@@ -6,4 +6,4 @@ This docker image starts with the postgres image, and installs the RDKit Cartrid
 
 e.g. 
 
-docker pull joellduerksen/postgres-rdkit
+    docker pull joellduerksen/postgres-rdkit
